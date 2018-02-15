@@ -1,0 +1,12 @@
+Package: yach
+Title: Yet Another Calandar Heatmap
+Version: 0.1.0
+Authors@R: person("Timothée", "Giraud", 
+        email = "timothee.giraud@cnrs.fr", role = c("cre","aut"))
+Description: Calandar heatmaps.
+License: GPL-3
+Encoding: UTF-8
+Imports: graphics, grDevices
+LazyData: true
+Depends: R (>= 3.3.0)
+RoxygenNote: 6.0.1
