@@ -27,7 +27,5 @@ cols <- c("#0D0887FF", "#2D0594FF", "#44039EFF", "#5901A5FF", "#6F00A8FF",
 calendarHeat(dates = wiki$date, values = wiki$views, colors = cols, 
              title = "Number of views of North Korea page on en.wikipedia in 2017")
 
-dput(viridis::plasma(20))
-dput(cols)
 ```
 
